@@ -21,8 +21,5 @@ Since this app is not available on the App Store, you will need to manually inst
 ## Contributing
 If you would like to contribute to this project, please visit the GitHub repository page. Detailed guidelines and methods for contributing can be found in the `CONTRIBUTING.md` file.
 
-## License
-This app is released under the [MIT License](LICENSE).
-
 ## Author
 - Name: BookEngineer
